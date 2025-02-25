@@ -50,7 +50,7 @@ header::after {
 header {
   height: 520px;
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: center;
   background-size: cover;
   background-image: url(background6.jpg) !important;
 }
