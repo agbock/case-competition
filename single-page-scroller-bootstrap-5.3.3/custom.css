@@ -52,7 +52,7 @@ header {
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
-  background-image: url(background.jpg) !important;
+  background-image: url(background6.jpg) !important;
 }
 
 
@@ -109,4 +109,6 @@ img {
 .bg-primary { background-color: #210404 !important ; }
 
 .bg-light { background-color: #210404 !important ; }
+
+.bg-dark { background-color: #121617 !important ; }
 
