@@ -36,6 +36,24 @@ nav ul li a:hover {
 
 
 
+header {
+  background: #3691b3 ;
+  padding-top: 185px;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+header {
+  height: 520px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  background-image: url(background.jpg) !important;
+}
 
 
 
