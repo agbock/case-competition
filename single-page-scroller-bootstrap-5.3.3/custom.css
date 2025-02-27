@@ -55,11 +55,11 @@ header {
   background-image: url(background6.jpg) !important;
 }
 
+  img.award {width: 250px}
 
-
-
-
-
+img.suzanne {
+  border-radius: 70%;
+}
 
 
 
@@ -80,14 +80,17 @@ h2 {
   font-family: "garamond;"
   font-weight: 500;
   font-style: normal;
+
 }
 
 h1 {
 	font-size: 80px;
 }
+
 h2 {
 	font-size: 50px;
 }
+
 h3 {
   font-size: 50px;
   <style>
